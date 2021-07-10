@@ -7,7 +7,7 @@
 ## Download and Installation
 
 ```sh
-git clone https://github.com/paularesende/word_count_challenge.git word_counter
+git clone https://github.com/axelzito/word-counter.git word_counter
 ```
 
 ```sh
