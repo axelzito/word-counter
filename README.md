@@ -1,18 +1,17 @@
-# Fominhapp
+# README
 
-## Using:
-
-- Ruby 3.0.1
-- Rails 6.1.3.2
+## Using
+- Ruby 2.7.1
+- Rails 5.2.6
 
 ## Download and Installation
 
 ```sh
-git clone https://github.com/axelzito/fominhapp.git project_name
+git clone https://github.com/paularesende/word_count_challenge.git word_counter
 ```
 
 ```sh
-cd project_name
+cd word_counter
 ```
 
 ```sh
